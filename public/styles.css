@@ -95,6 +95,20 @@ section {
     text-align: center;
 }
 
+.payment-container {
+    background-color: rgba(0, 0, 0, 0.5); /* Shaded background */
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.payment-container h2 {
+    color: #fff;
+}
+
+.form-group label {
+    color: #fff; /* White text color for better readability */
+}
+
 .lasts{
     margin-bottom: 18px;
 }
